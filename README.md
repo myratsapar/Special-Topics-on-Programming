@@ -1,3 +1,3 @@
 # Special-Topics-on-Programming
 
-Make own C library
+Making own C library
